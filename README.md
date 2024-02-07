@@ -1,4 +1,8 @@
 ### Hi there 👋
+🔭 I’m currently working on automating the scheduling process at my high school. 
+😄 Pronouns: he/him
+🌱 I’m currently learning how to program in Python.
+
 
 <!--
 **kief2r/kief2r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
