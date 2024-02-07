@@ -1,6 +1,8 @@
 ### Hi there 👋
 🔭 I’m currently working on automating the scheduling process at my high school. 
+
 😄 Pronouns: he/him
+
 🌱 I’m currently learning how to program in Python.
 
 
