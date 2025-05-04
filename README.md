@@ -1,9 +1,9 @@
 ### Hi there 👋
-🔭 I’m currently working on automating the scheduling process at my high school. 
+🔭 I’m currently studying data science at Boston University!
 
 😄 Pronouns: he/him
 
-🌱 I’m currently learning how to program in Python.
+🌱 I’m currently learning how to program in Python and Rust.
 
 
 <!--
